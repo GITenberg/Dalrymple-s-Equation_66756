@@ -1,0 +1,22 @@
+_repo: Dalrymple-s-Equation_66756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fairman, Paul W.
+    birthdate: 1916
+    deathdate: 1977
+    gutenberg_agent_id: '9567'
+    url: http://www.gutenberg.org/2009/agents/9567
+    wikipedia: https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2021-11-17'
+identifiers:
+  gutenberg: '66756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dalrymple's Equation
+url: http://www.gutenberg.org/ebooks/66756
